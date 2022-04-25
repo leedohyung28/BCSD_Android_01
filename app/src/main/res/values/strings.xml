@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BCSD_Android</string>
+    <string name="login">Login</string>'
+    <string name="id">ID</string>
+    <string name="pw">Password</string>
+    <string name="register">Sign Up</string>
+    <string name="findpw">Find Password</string>
 </resources>
